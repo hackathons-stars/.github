@@ -9,6 +9,7 @@
   ![Typescript](https://img.shields.io/badge/TypeScript-ff2400.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Eslint](https://img.shields.io/badge/ESLint-ff2400.svg?style=for-the-badge&logo=ESLint&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-ff2400.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/sass-ff2400.svg?style=for-the-badge&logo=sass&logoColor=white)
   ![Yup](https://img.shields.io/badge/yup-ff2400.svg?style=for-the-badge&logo=yup&logoColor=white)
   ![Formik](https://img.shields.io/badge/Formik-ff2400.svg?style=for-the-badge&logo=Formik&logoColor=white)
 
