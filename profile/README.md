@@ -1,4 +1,4 @@
-# T-HAPI
+# Hackathon Stars
 
 ## Tecnologias Utilizadas
 
